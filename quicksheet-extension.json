@@ -1,0 +1,14 @@
+{
+  "name": "quicksheet-dice",
+  "version": "1.0.0",
+  "description": "Dice roller — roll: 2d6+3, d20, 4d6kh3",
+  "entry": "QuickSheetDice.csproj",
+  "prefix": "roll:",
+  "author": "cemheren",
+  "params": [
+    {
+      "name": "notation",
+      "description": "Dice notation: 2d6+3, d20, 4d6kh3, 4dF, d%"
+    }
+  ]
+}
