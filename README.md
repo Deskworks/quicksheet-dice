@@ -15,7 +15,7 @@ A dice roller extension for [QuickSheet](https://github.com/cemheren/QuickSheet)
 ## Install
 
 ```
-ext: github:cemheren/quicksheet-dice
+ext: github:Deskworks/quicksheet-dice
 ```
 
 Type that into any cell in QuickSheet. The extension is downloaded and compiled automatically on first use.
